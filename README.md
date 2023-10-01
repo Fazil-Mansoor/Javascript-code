@@ -1,2 +1,7 @@
 # Javascript-code
-Coding in javascript from basic to advance level
+const a ={
+name: "Fazil",
+adress:"villagam",
+phNo:96544333
+};
+console.log(a.name);
