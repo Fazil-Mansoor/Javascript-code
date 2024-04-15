@@ -5,15 +5,15 @@
 
 // use of const get and var
 const accountId= 765643
-let accountEmail= "amir123@gmail.com"
+let accountEmail= "fazil23@gmail.com"
 var accountPassword="22333445"
 var accountCity="Srinagar"
 // accountId=4  not allowed 
 
 
- accountEmail= "rather23@gmail.com"
+ accountEmail= "fazil122@gmail.com"
  accountPassword="12345"
- accountCity="pulwama";
+ accountCity="Kupwara";
  let accountState;
 
 
